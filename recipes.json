@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fish Tacos",
+    "category": "Dinner",
+    "tags": ["Quick", "Make-Ahead"],
+    "icon": "🌮",
+    "ingredients": {
+      "White Fish": 1.0,
+      "Corn Tortillas": 6.0,
+      "Cabbage": 1.0,
+      "Lime": 1.0,
+      "Black Beans": 1.0
+    },
+    "instructions": "Season and pan-sear fish for 3–4 minutes per side. Mix shredded cabbage with lime juice and salt. Warm tortillas in a pan. Assemble tacos with fish, slaw, and black beans."
+  }
+]
